@@ -2,7 +2,7 @@
 
 - Server module for Derby 0.6 apps
 - Written in Javascript
-- Express middlware and routes are configurable
+- Express middleware and routes are configurable
 - Coffeescript is supported
 - Influenced by [derby-starter](https://github.com/derbyjs/derby-starter)
 
