@@ -1,6 +1,6 @@
 {
   "name": "derby-starter2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Server for Derby apps",
   "main": "lib/index.js",
   "scripts": {
