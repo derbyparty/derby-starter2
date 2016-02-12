@@ -16,7 +16,7 @@
   "dependencies": {
     "coffee-script": "^1.8.0",
     "coffeeify": "^0.7.0",
-    "derby": "0.6.0-alpha24",
+    "derby": "git://github.com/derbyjs/derby.git#16369399a6cb35b7f1b3e0f72a37aec75da20d6d",
     "express": "^4.4.5",
     "express-session": "^1.8.2",
     "serve-static": "^1.6.3",
